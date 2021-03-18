@@ -159,6 +159,12 @@ hr {
     background-color: white;
 }
 
+.linkdin,
+.github,
+.instagram {
+    color: white;
+}
+
 @media(max-width: 1028px) {
     h4 {
         font-size: 1rem;
