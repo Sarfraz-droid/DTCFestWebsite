@@ -167,16 +167,20 @@ hr {
 
 @media(max-width: 1028px) {
     h4 {
-        font-size: 1rem;
+        font-size: .8rem;
     }
     h3 {
+        font-size: 1.5rem;
+    }
+    h2 {
         font-size: 1.5rem;
     }
     .message-label {
         visibility: hidden;
     }
     li {
-        text-align: center;
+        margin: 5%;
+        text-align: left;
     }
     #profile {
         margin-left: 5rem;
@@ -184,5 +188,8 @@ hr {
     }
     .g-img {
         width: 60%;
+    }
+    .section {
+        padding: 0% 0%;
     }
 }
